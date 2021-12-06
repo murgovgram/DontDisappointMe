@@ -1289,6 +1289,10 @@ video {
   gap: 2rem;
 }
 
+.gap-24{
+  gap: 6rem;
+}
+
 .grid-cols-1{
   grid-template-columns: repeat(1, minmax(0, 1fr));
 }
