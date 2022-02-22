@@ -9,6 +9,7 @@ module.exports = {
       width: {
         '450': '450px',
         '520': '520px',
+        '650': '650px',
       },
       colors: {
         bgBlue: '#003688',
