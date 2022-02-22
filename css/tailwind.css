@@ -5,3 +5,4 @@
 @tailwind components;
 @tailwind utilities;
 
+.blend-multiply { mix-blend-mode: multiply; }

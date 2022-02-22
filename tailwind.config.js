@@ -16,7 +16,7 @@ module.exports = {
         bgOrange: '#FF5F56',
         bgGrayLight: '#F2F2F2',
         bgGrayStrong: '#D8D8D8',
-      }
+      },
     },
     screens: {
       'sm': '640px',
@@ -43,5 +43,6 @@ module.exports = {
     extend: {},
     display: ['responsive', 'group-hover', 'group-focus'],
   },
-  plugins: []
+  plugins: [
+  ]
 }

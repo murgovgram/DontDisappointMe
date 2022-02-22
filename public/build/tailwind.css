@@ -32044,6 +32044,9 @@ video {
           animation: bounce 1s infinite;
 }
 
+.blend-multiply { mix-blend-mode: multiply;
+}
+
 @media (min-width: 640px){
   .sm\:container{
     width: 100%;
@@ -189103,4 +189106,3 @@ video {
             animation: bounce 1s infinite;
   }
 }
-

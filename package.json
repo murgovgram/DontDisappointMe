@@ -15,5 +15,8 @@
     "postcss-cli": "^8.3.1",
     "tailwindcss": "^2.0.3",
     "vue": "^2.6.12"
+  },
+  "devDependencies": {
+    "tailwindcss-blend-mode": "^1.0.0"
   }
 }
