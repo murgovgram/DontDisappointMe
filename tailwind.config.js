@@ -6,6 +6,10 @@ module.exports = {
   darkMode: false, // or 'media' or 'class'
   theme: {
     extend: {
+      width: {
+        '450': '450px',
+        '520': '520px',
+      },
       colors: {
         bgBlue: '#003688',
         bgOrange: '#FF5F56',
